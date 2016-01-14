@@ -1,8 +1,7 @@
 baseurl = "http://iauhs.github.io/"
 languageCode = "en-us fr-fr"
 title = "Iauhs与神的对话"
-theme = "hyde"
-
+theme = "hyde" #default theme
 
 [params]
     description = "Iauhs'博客，记录iauhs与神的对话"#simple description on page
