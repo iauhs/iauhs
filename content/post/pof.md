@@ -1,5 +1,5 @@
 +++
-Categories = ["Development", "GoLang"]
+Categories = ["pof", "寂寞","交友网站"]
 Description = ""
 Tags = ["Development", "golang"]
 date = "2016-01-31T20:31:11+01:00"
