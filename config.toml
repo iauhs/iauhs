@@ -3,5 +3,10 @@ languageCode = "en-us fr-fr"
 title = "Iauhs与神的对话"
 theme = "hyde" #default theme
 
+
+
+
 [params]
-    description = "Iauhs'博客，记录iauhs与神的对话"#simple description on page
+    description = "Iauhs'"	#simple description on page
+	disqusShortname = "iauhs" # optional
+	toc = true 
