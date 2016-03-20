@@ -2,7 +2,7 @@
 date = "2016-02-15T23:46:38+01:00"
 description = "change the theme to slender"
 keywords = ['change theme hugo']
-title = "changethetheme"
+title = "How to change the theme"
 
 +++
 
