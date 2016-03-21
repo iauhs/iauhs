@@ -2,9 +2,8 @@
 date = "2016-03-22T00:05:35+01:00"
 description = ""
 draft = true
-tags = [读书 写作]
 title = "读书使人思维开阔，写作使人逻辑清晰"
-topics = [写作]
+keywords = ['write']
 
 +++
 
